@@ -50,5 +50,19 @@ author: [Congsheng (ACondaway) Xu](https://github.com/ACondaway), Organization: 
 - **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/pdf/2508.05635v1)** - Key work in Agibot series (2025-08)
 
 ---
+## Embodied-R1 Series
 
+- **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/pdf/2508.13998)** - Use R1-based method (2025-08)
+
+## Galaxea Series
+
+- **[Galaxea Open-World Dataset & G0 Dual-System VLA Model](https://github.com/OpenGalaxea/G0/blob/main/Galaxea_G0_report.pdf)** - Key works for Galaxea (2025-08)
+
+## NVIDIA GR00T
+
+- **[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)** - Key works for NVIDIA Robotics (2025-03)
+
+## Octo Series
+
+- **[Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2405.12213)** - (2024-05)
 *Last updated: Aug.10 2025*
